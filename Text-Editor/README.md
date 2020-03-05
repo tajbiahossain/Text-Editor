@@ -1,1 +1,1 @@
-# Text-Editor-CSE2100
+# Text-Editor
